@@ -1,0 +1,22 @@
+{
+  "overview": "N7 fintech banking single-page landing site with 9 sections showcasing cloud-based banking solutions.",
+  "features": [
+    "Sticky navigation with smooth scroll",
+    "Hero section with banking UI mockups",
+    "Solutions grid with 5 product cards",
+    "Core Banking features with dashboard placeholders",
+    "Insights and case studies sections",
+    "Digital Banking feature showcase",
+    "Responsive across desktop, tablet, and mobile",
+    "Hover states and fade-in scroll animations"
+  ],
+  "category": "landing-page",
+  "tags": [
+    "fintech",
+    "banking",
+    "landing-page",
+    "n7",
+    "responsive"
+  ],
+  "last_updated": "2026-05-27T12:25:49.190Z"
+}
